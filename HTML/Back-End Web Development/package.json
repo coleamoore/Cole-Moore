@@ -1,0 +1,20 @@
+{
+  "name": "pa4",
+  "version": "1.0.0",
+  "main": "PA4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "conf": "^6.2.4",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "handlebars": "^4.7.6",
+    "path": "^0.12.7",
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
