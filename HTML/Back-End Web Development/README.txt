@@ -3,6 +3,14 @@ Course: CS 316
 Project: Programming Assignment 4
         Back End Web Development
 
+Make sure to use 'npm init' and 'npm i' to install necessary files:
+npm init
+npm i express
+npm i path
+npm i conf
+npm i express-handlebars
+npm i uuid
+
 Run using 'node PA4.js'.
 
 Throughout my code, I have left NOTEs that can be found using the find tool.
