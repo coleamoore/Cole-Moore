@@ -1,1 +1,1 @@
-Will upload projects soon.
+Currently uploading projects.
