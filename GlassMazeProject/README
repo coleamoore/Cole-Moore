@@ -1,0 +1,35 @@
+Author: Cole Moore
+Edited: 10/4/20
+
+My game is called Glass Maze. It is a puzzle game. The player is a marble trapped in an invisible
+maze and it must find its way out. I originally was planning on including a tracing element that would
+trace the path of the marble as it went over the ground; however, I decided that it made the game too easy,
+and did not include it.
+
+The Glass Maze project is made up of six scenes. The StartGame scene, the EndGame scene, the Level01 scene, the Credits scene,
+the MainMenu scene, and the Tutorial scene.
+
+The StartGame scene and the EndGame scene are very similar; both are primarily for UI purposes in starting and 
+restarting the game.
+
+MainMenu is an alternate StartGame.
+
+Tutorial is the scene that teaches the player the goal and instructions on how to play the game. At any time during the level, the player may press the 
+ESC key to pause the game and bring up the pause menu.
+
+Level01 is the scene that contains the invisible maze. The player can roll around using the WASD and arrow keys, 
+and must reach the green beacon in order to finish the game. At any time during the level, the player may press the 
+ESC key to pause the game and bring up the pause menu.
+
+Credits shows the information below:
+
+Regarding my assets, I got all of my background images (Sky_Front, Sky_Left, and Sky_Right) from my uncle, Chadd Cole. He made them himself and I got permission
+to use them from him.
+
+The rest of the assets were obtained from the Unity Asset Store:
+    The glowing materials, such as the beacon and walls, are from MK Glow (Michael Kremmel)
+    The metal textures were obtained from Yughues Free Metal Materials (Nobiax/Yughues)
+    The sci-fi music was obtained from the Free Game Music Collection (The Indie Devs Nation)
+    All other assets (including scripts, scenes, and physics materials) were made by myself.
+
+The puzzle solution is included in the submission.
