@@ -1,0 +1,14 @@
+RemoteRenderingClient.dll
+CoarseRelocUW.dll
+AzureSpatialAnchors.dll
+Microsoft.MixedReality.SceneUnderstanding.dll
+ObjectTrackerRefinement.dll
+
+Microsoft.Azure.ObjectAnchors.dll
+openxr_loader.dll
+FrozenWorldPlugin.dll
+ObjectTrackerApi.dll
+ObjectTrackerFusion.dll
+
+VolumeFusionAPI.dll
+Microsoft.Holographic.HybridRemoting.dll
