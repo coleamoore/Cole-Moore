@@ -1,0 +1,31 @@
+Author: Cole Moore
+Date: 11/7/21
+Project: Gaussian Blur
+
+Navigate to src if using the terminal.
+To run, use the command:
+javac *.java
+Then, use:
+java MyImageProc
+
+The menu File at the top contains:
+Open - Opens a file chooser. Open the src folder to find a few images (.jpg).
+Selecting one of them will replace the default image. (May need to resize window)
+Exit - ends the program.
+
+The buttons at the bottom contain:
+Original - returns the selected image to its original form
+Sharpen - performs a sharpening operation on the image
+Blur - performs a blurring operation on the image
+Edges - performs a detect-edge operation on the image
+Custom - uses the matrix above on the image
+<< - rotates the image counterclockwise
+>> - rotates the image clockwise
+Gaussian Blur - applies a Gaussian blur on the image. Popups will ask for 
+the kernel radius (1-10) and the sigma (1.0-3.0)(Extra credit). The Gaussian kernel 
+values should be normalized.
+
+Only the File menu and the Original and Gaussian Blur buttons are really important.
+
+The NoMachine terminal won't run the project due to how the image is read in,
+but the NoMachine IntelliJ runs the project well.
