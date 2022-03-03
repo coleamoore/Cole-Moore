@@ -1,0 +1,33 @@
+Author: Cole Moore
+Date: 10/31/21
+Project: Caldera Weasel Refactor
+
+Navigate to src if using the terminal.
+To run, use the command:
+javac *.java
+Then, use:
+java CWeasel
+
+If the first click is on a thermal trap, it says THERMAL TRAP HERE! at the 
+bottom of the page.
+It is suggested in the help section to place a flag there.
+
+The menu at the top has a section for Settings, which includes:
+Beginner - 4x4 with 5 thermal traps
+Intermediate - 8x8 with 14 traps
+Expert - 15x15 with 60 traps
+Help - displays a popup with helpful tips
+Restart - restarts the game
+Quit - closes out the window and ends the program
+
+A counter for flags left is at the bottom left, and a timer is at the top left.
+
+A game can be won if flags are placed on all cells with thermal trap, without 
+triggering a trap, and if all non-trap cells are revealed.
+Triggering a trap ends the current game and reveals all thermal traps.
+Any flags on tiles with thermal traps remain, while misplaced flags are X-ed out.
+
+A resources folder is also included in the src folder. This contains the images
+used for the cells.
+
+Both the terminal and the NoMachine IntelliJ work and run well.
