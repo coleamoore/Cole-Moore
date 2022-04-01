@@ -1,4 +1,4 @@
-ActionRPGBuild - built small island with skeleton with basic AI that will walk route and attack when player moves within range
+ActionRPG - built small island with skeleton with basic AI that will walk route and attack when player is seen
 GlassMazeProject - invisible maze where bumping into a wall will briefly illuminate it; includes main menu, paused menu, tutorial, first level, etc. Made in Unity
 HoloLens2TestBuildFinal - HoloLens 2 shared experience test made in Unity
 cweasel-refactor - Caldera Weasel (Minesweeper) - Minesweeper game with caldera theme coded in Java
