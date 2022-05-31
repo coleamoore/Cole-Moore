@@ -7,5 +7,6 @@ Pyraminx - Pyraminx (Rubix pyramid instead of Rubix cube) modelled in Python
 Space Dwarves - level design internship logs from levels made in Unity
 GaussianBlur - various image editing options in Java
 HTML - includes front-end and back-end web login page examples coded in JavaScript, CSS, HTML, etc.
+ModifiedRollABall - modified tutorial project Roll-A-Ball with new features, enemies, powerups, expanded level, and more.
 
 Currently uploading more projects.
