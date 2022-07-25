@@ -1,4 +1,4 @@
-VRBowling.apk - Unity build of VR project that includes teleportation, grabbing and throwing objects with physics, camera rotation, and more.
+VRBowling.apk - Unity build of VR project that includes teleportation, grabbing and throwing objects with physics, camera rotation, and more (used SideQuest to load .apk into Oculus headset).
 ActionRPG - built small island with skeleton with basic AI that will walk route and attack when player is seen
 GlassMazeProject - invisible maze where bumping into a wall will briefly illuminate it; includes main menu, paused menu, tutorial, first level, etc. Made in Unity
 HoloLens2TestBuildFinal - HoloLens 2 shared experience test made in Unity
