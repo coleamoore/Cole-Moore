@@ -1,4 +1,5 @@
-VRBowling.apk - Unity build of VR project that includes teleportation, grabbing and throwing objects with physics, camera rotation, and more (used SideQuest to load .apk into Oculus headset).
+GunslingerVR.apk - Unity 6 build of VR project using XR Interaction Toolkit. VR shooter game that unleashes waves of AI enemies at player; player must use their guns to fire at oncoming hoard. Player can also throw weapons at enemies to damage them as well as shooting them. To reload, players can throw their current guns aside and grab new ones from their belt. If the enemies reach the player and attack them, the game ends. (In-progress) (used SideQuest to load .apk into Oculus 2 headset).
+VRBowling.apk - Unity build of VR project that includes teleportation, grabbing and throwing objects with physics, camera rotation, and more (used SideQuest to load .apk into Oculus 2 headset).
 ActionRPG - built small island with skeleton with basic AI that will walk route and attack when player is seen; shows animation triggers and environment creation
 GlassMaze - invisible maze where bumping into a wall will briefly illuminate it; includes main menu, paused menu, tutorial, first level, etc. Made in Unity
 HoloLens2TestBuildFinal - HoloLens 2 shared experience test made in Unity
